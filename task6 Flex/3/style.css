@@ -1,0 +1,16 @@
+.cont{
+    display: flex;
+    border: 10px solid gold;
+    
+    
+
+}
+.item{
+    width: 25%;
+    height: 600px;
+    display: flex;
+    justify-content: center;
+    
+    font-size: 50px;
+    color: white;
+}

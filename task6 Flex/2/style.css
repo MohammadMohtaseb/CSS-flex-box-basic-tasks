@@ -1,0 +1,108 @@
+.cont{
+    display: flex;
+    border: gold 10px solid;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: flex-start;
+}
+.box1{
+    background-color: red;
+    width: 25%;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 50px;
+    color: white;
+    
+}
+.box2{
+    background-color: blue;
+    width: 25%;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 50px;
+    color: white;
+}
+.box3{
+    background-color: green;
+    width: 25%;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 50px;
+    color: white;
+}
+.box4{
+    background-color: yellow;
+    width: 25%;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 50px;
+    color: white;
+}
+.box5{
+    background-color: pink;
+    width:25%;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 50px;
+    color: white;
+}
+.box6{
+    background-color: gray;
+    width: 25%;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 50px;
+    color: white;
+}
+.box7{
+    background-color: salmon;
+    width: 25%;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 50px;
+    color: white;
+}
+.box8{
+    background-color: chartreuse;
+    width: 25%;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 50px;
+    color: white;
+}
+.box9{
+    background-color: darkred;
+    width: 25%;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 50px;
+    color: white;
+}
+.box10{
+    background-color: purple;
+    width: 25%;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 50px;
+    color: white;
+}
